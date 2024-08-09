@@ -2,7 +2,7 @@
   "name": "note_taker",
   "version": "1.0.0",
   "description": "A simple notetaking application",
-  "main": "index.html",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
